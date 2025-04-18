@@ -12,4 +12,5 @@ My research focuses on:
 - the impact of public policies on local governance.
 
 I have also worked on indirect taxation, budget transparency, and digitalization issues such as P2P and G2P payments in public finance.
-![Cheick Camara](/assets/profile.jpg){: style="width:200px; border-radius:50%;" }
+
+![Cheick Camara](/assets/images/profile.jpg){: style="width:200px; border-radius:50%;" }
