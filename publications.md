@@ -4,26 +4,25 @@ title: "Publications"
 permalink: /publications/
 ---
 
-
 ### Working Papers
 
-- [**Building credibility: How gender budget transparency boosts commitment to fiscal policy and women’s empowerment in Indian states**](/assets/gender-budget-credibility.pdf)** *(Job Market Paper)*  
+- [**Building credibility: How gender budget transparency boosts commitment to fiscal policy and women’s empowerment in Indian states**](/assets/gender-budget-credibility.pdf) *(Job Market Paper)*  
   Difference-in-Differences analysis (1991–2020); shows gender budgeting improves credibility and reallocation towards inclusive sectors.
 
-- **Gender Budgeting and Health Spending Efficiency in Indian States** *(CERDI Working Paper)*  
-  Uses staggered DiD and entropy balancing; gender budgeting improves revenue forecasting and fiscal efficiency.
+- [**Gender Budgeting and Health Spending Efficiency in Indian States**](/assets/gender-budget-efficiency.pdf) *(CERDI Working Paper)*  
+  Staggered DiD and entropy balancing; persistent gains in fiscal efficiency and transparency.
 
-- **Federalism and Women Empowerment in India**  
-  2SLS estimation shows fiscal autonomy reduces gender inequality and improves access to services for women.
+- [**Federalism and Women Empowerment in India**](/assets/federalism-women.pdf)  
+  2SLS estimation; fiscal autonomy improves women’s outcomes and reduces gender inequality.
 
-- **Revenues vs. Expenditures: How Fiscal Decentralization Improves Infrastructure Spending Efficiency**  
-  Instrumental variables and GMM estimations across 40 countries; different impacts of decentralizing revenue vs. expenditure.
+- [**Revenues vs. Expenditures: How Fiscal Decentralization Improves Infrastructure Spending Efficiency**](/assets/decentralization-infrastructure.pdf)  
+  IV and GMM estimations in 40 countries; dynamic analysis of revenue vs. expenditure decentralization.
 
-- **Mobile Money Adoption and Poverty Reduction in African Countries** *(with Alassani, Karippacheril, Tinta)*  
-  DiD on 46 African countries; G2P digitalization improves income distribution, conditional on structural and institutional factors.
+- [**Mobile Money Adoption and Poverty Reduction in African Countries**](/assets/mobile-money-poverty.pdf) *(with Alassani, Karippacheril, Tinta)*  
+  DiD on 46 countries; digital G2P improves income distribution, conditional on structural factors.
 
-- **Fiscal Federalism and Local Conflicts in India** *(with Caldeira, Laporte)*  
-  Game-theoretic and empirical analysis; fiscal autonomy reduces secessionist and resource-related conflict intensity.
+- [**Fiscal Federalism and Local Conflicts in India**](/assets/federalism-conflict.pdf) *(with Caldeira, Laporte)*  
+  Game theory + empirical analysis; fiscal autonomy reduces secessionist and resource-related conflicts.
 
 ---
 
