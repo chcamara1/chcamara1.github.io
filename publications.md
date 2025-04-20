@@ -3,11 +3,11 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
-- [**Building credibility: How gender budget transparency boosts commitment to fiscal policy and women’s empowerment in Indian states**](/publication/gender-budget-credibility/)
+
 
 ### Working Papers
 
-- **Building credibility: How gender budget transparency boosts commitment to fiscal policy and women’s empowerment in Indian states** *(Job Market Paper)*  
+- **- [**Building credibility: How gender budget transparency boosts commitment to fiscal policy and women’s empowerment in Indian states**](https://github.com/chcamara1/chcamara.gihub.io/blob/main/gender-budget-credibility.pdf)** *(Job Market Paper)*  
   Difference-in-Differences analysis (1991–2020); shows gender budgeting improves credibility and reallocation towards inclusive sectors.
 
 - **Gender Budgeting and Health Spending Efficiency in Indian States** *(CERDI Working Paper)*  
