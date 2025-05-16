@@ -21,7 +21,7 @@ permalink: /publications/
 - [**Mobile Money Adoption and Poverty Reduction in African Countries**](/assets/mobile-money-poverty.pdf) *(with Alassani, Karippacheril, Tinta)*  
   DiD on 46 countries; digital G2P improves income distribution, conditional on structural factors.
 
-- [**Fiscal Federalism and Local Conflicts in India**](/assets/federalism-conflict.pdf) *(with Caldeira, Laporte)*  
+- [**Fiscal Federalism and Local Conflicts in India**](/assets/federalism-conflict.pdf)  
   Game theory + empirical analysis; fiscal autonomy reduces secessionist and resource-related conflicts.
 
 ---
