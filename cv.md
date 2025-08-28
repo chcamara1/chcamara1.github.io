@@ -19,7 +19,7 @@ permalink: /cv/
 
 ### Research & Professional Experience
 
-- **Consultant**, Scientific Trainee, EU Joint Research Center, Sevilla, Oct 2025- Feb 2026 
+- **Scientific Trainee**, EU Joint Research Center, Sevilla, Oct 2025- Feb 2026 
   Contributing to the harmonization of regional datasets and the development of indicators to monitor territorial disparities.
 
 - **Consultant**, Council on Economic Policies (Apr 2024 – Dec 2025)  
