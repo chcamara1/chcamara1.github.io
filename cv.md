@@ -46,4 +46,4 @@ Contributing to the evaluation of EU public funds at the regional level across E
 - **Educational Consultant**, UCA (Jul 2022 – Oct 2022)  
   Design of an interactive tool for teaching statistics.
 
-[📄 Download my CV (PDF)](/assets/CheickCamara_CV.pdf)
+[📄 Download my CV (PDF)](assets/CheickCamara_CV.pdf)
