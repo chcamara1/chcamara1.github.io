@@ -22,7 +22,7 @@ permalink: /cv/
 - **Consultant**, Scientific Trainee, EU Joint Research Center, Sevilla, Oct 2025- Feb 2026 
 Contributing to the evaluation of EU public funds at the regional level across EU countries. Supporting empirical analyses on the effectiveness and efficiency of cohesion policy investments. Assisting in the harmonization of regional datasets and the development of indicators to monitor territorial disparities and convergence trends.
 
-- **Consultant**, Council on Economic Policies (Apr 2024 – Jan 2025)  
+- **Consultant**, Council on Economic Policies (Apr 2024 – Dec 2025)  
   GTETI analysis for Mali and Côte d’Ivoire; benchmark systems; integration into fiscal frameworks.
 
 - **Research Assistant**, Michael Keen – CERDI (Jun 2022 – Aug 2022)  
