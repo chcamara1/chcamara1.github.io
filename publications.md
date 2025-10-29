@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Working Papers
 
-- [**Building credibility: How gender budget transparency boosts commitment to fiscal policy and women’s empowerment in Indian states**](/assets/gender-budget-credibility.pdf) *(Job Market Paper)*  
+- [**Do fiscal reforms need a gender lens? Evidence from Indian states**](/assets/gender-budget-credibility.pdf) *(Job Market Paper)*  
   Difference-in-Differences analysis (1991–2020); shows gender budgeting improves credibility and reallocation towards inclusive sectors.
 
 - [**Gender Budgeting and Health Spending Efficiency in Indian States**](/assets/gender-budget-efficiency.pdf) *(CERDI Working Paper)*  
@@ -21,7 +21,7 @@ permalink: /publications/
 - [**Mobile Money Adoption and Poverty Reduction in African Countries**](/assets/mobile-money-poverty.pdf) *(with Alassani, Karippacheril, Tinta)*  
   DiD on 46 countries; digital G2P improves income distribution, conditional on structural factors.
 
-- [**Fiscal Federalism and Local Conflicts in India**](/assets/federalism-conflict.pdf)  
+- [**Designing Autonomy: Federalism, Conflict, and the Lessons of Fragility**](/assets/federalism-conflict.pdf)  
   Game theory + empirical analysis; fiscal autonomy reduces secessionist and resource-related conflicts.
 
 ---
