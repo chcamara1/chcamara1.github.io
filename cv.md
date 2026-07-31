@@ -16,7 +16,7 @@ permalink: /cv/
 - **B.S. in Public Policy Analysis**, Clermont Auvergne University (2016 – 2019)
 
 ---
-
+ 
 ### Research & Professional Experience
 **Short Term Consultant**, The Wordl Bank Group, Wahington.DC, Jan 2026- Jun 2026 
 •  Built the econometric backbone of a Subnational Public Finance Review and Contributed to strengthen the
