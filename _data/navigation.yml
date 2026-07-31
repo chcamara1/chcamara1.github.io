@@ -6,5 +6,6 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "About"
-    url: /about/  - title: "Public Engagement"
+    url: /about/
+  - title: "Public Engagement"
     url: /communications/
