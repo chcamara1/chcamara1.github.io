@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Working Papers
 
-- [**Do fiscal reforms need a gender lens? Evidence from Indian states**](/assets/gender-budget-credibility.pdf) *(Job Market Paper)*  
+- [**Promises on Paper or Money Well Spent? Gender Budgeting Delivers.**](/assets/gender-budget-credibility.pdf) *(Job Market Paper)*  
   Difference-in-Differences analysis (1991–2020); shows gender budgeting improves credibility and reallocation towards inclusive sectors.
 
 - [**Gender Budgeting and Health Spending Efficiency in Indian States**](/assets/gender-budget-efficiency.pdf) *(CERDI Working Paper)*  

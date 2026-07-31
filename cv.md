@@ -18,7 +18,7 @@ permalink: /cv/
 ---
 
 ### Research & Professional Experience
--- **Short Term Consultant**, The Wordl Bank Group, Wahington.DC, Jan 2026- Jun 2026 
+**Short Term Consultant**, The Wordl Bank Group, Wahington.DC, Jan 2026- Jun 2026 
 •  Built the econometric backbone of a Subnational Public Finance Review and Contributed to strengthen the
 governance evidence base for Ghana’s Country Growth and Jobs Report.
 • Co-authored regional reform guidelines addressing weak fiscal transparency in CEMAC state-owned enterprises,
