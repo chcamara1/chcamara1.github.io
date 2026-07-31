@@ -18,16 +18,9 @@ permalink: /cv/
 ---
  
 ### Research & Professional Experience
-**Short Term Consultant**, The Wordl Bank Group, Wahington.DC, Jan 2026- Jun 2026 
-•  Built the econometric backbone of a Subnational Public Finance Review and Contributed to strengthen the
-governance evidence base for Ghana’s Country Growth and Jobs Report.
-• Co-authored regional reform guidelines addressing weak fiscal transparency in CEMAC state-owned enterprises,
-adopted into the region’s SOE reform agenda.
-• Co-built an original cross-country dataset on budgetary classification across Central & West Africa in the absence
-of comparable data, informing a GovTech budget-transparency initiative.
-• Drafted lending and technical-assistance concept notes for five fragile-context countries (Cameroon, CAR, Congo,
-Eq. Guinea, Gabon) and represented the team in PIMA and DRM missions in Gabon, liaising directly with
-national government officials and country delegations.
+- **Short Term Consultant**, The Wordl Bank Group, Wahington.DC, Jan 2026- Jun 2026 
+  Built the econometric framework for Ghana’s Subnational Public Finance Review, strengthened governance evidence for its Country Growth and Jobs Report, and co-authored CEMAC SOE transparency guidelines.
+  Co-developed a cross-country budget dataset for Central and West Africa and supported lending, technical assistance, PIMA, and DRM work across five fragile states.
 
 - **Scientific Trainee**, EU Joint Research Center, Sevilla, Oct 2025- Jan 2026 
   Contributing to the harmonization of regional datasets and the development of indicators to monitor territorial disparities.
