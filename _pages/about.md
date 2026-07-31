@@ -1,8 +1,14 @@
----
-permalink: /about/
-title: "About"
----
+I am an economist (Ph.D., CERDI, Université Clermont Auvergne – CNRS, IRD)
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My research focuses on:
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- fiscal federalism and decentralization, with a particular focus on India;
+- the relationship between institutional design, ethnic conflict, and subnational autonomy;
+- the impact of local public policies — including gender-responsive budgeting — on governance outcomes.
+- Fiscal credibility and transparency
+
+Alongside this core agenda, I have worked on indirect taxation, budget transparency, and the digitalization of public finance, including peer-to-peer and government-to-person payment systems. I am also increasingly interested in macroeconomic analysis and fiscal competition within monetary and economic unions.
+
+I see the public and private sectors as complementary rather than competing forces, each indispensable to economic prosperity in its own way, and I try to approach economic policy holistically — attentive to how instruments interact rather than treating them in isolation.
+
+Outside of economics, I follow geopolitics closely, and spend the rest of my time on football, judo, and military history
