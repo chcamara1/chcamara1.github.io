@@ -30,3 +30,6 @@ permalink: /publications/
 
 - **Reshaping Citizen-Government Dynamics: The Impact of Mobile Money on State Relations**  
   *(with Alassani, Karippacheril, Tinta)* – currently under development.
+  
+- **Can we trust subnational government discourse, or is it just ex-post rationalization of what we already know?**  
+Applies text-as-data methods to 30 years of Indian state budget speeches to examine whether fiscal rhetoric predicts or merely rationalizes fiscal outcomes.
