@@ -12,7 +12,7 @@ permalink: /cv/
 
 - **M.S. in Economics (Public Finance)**, Clermont Auvergne University (2019 – 2021)  
   *Thesis*: *Fiscal decentralization and economic growth*
-
+ 
 - **B.S. in Public Policy Analysis**, Clermont Auvergne University (2016 – 2019)
 
 ---
