@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Working Papers
 
-- [**Promises on Paper or Money Well Spent? Gender Budgeting Delivers**](/assets/gender-budget-credibility.pdf) *(Job Market Paper)* - Under review at Economics of governance
+- [**Promises on Paper or Money Well Spent? Gender Budgeting Delivers**](/assets/gender-budget-credibility.pdf) *(Job Market Paper)* - Under review at Economics of governance<br>
   Difference-in-Differences analysis (1991–2020); shows gender budgeting improves credibility and reallocation towards inclusive sectors.
 
 - [**Gender Budgeting and Health Spending Efficiency in Indian States**](/assets/gender-budget-efficiency.pdf) *(CERDI Working Paper)*  
