@@ -35,5 +35,5 @@ permalink: /publications/
 Applies text-as-data methods to 30 years of Indian state budget speeches to examine whether fiscal rhetoric predicts or merely rationalizes fiscal outcomes.
 
 - **Does Money Talk? Gender-Responsive Budgeting and Gender Parity in School Enrolment in Developing Countries**<br>
-  *(with Yacouba Coulibaly)*
+  *(with Yacouba Coulibaly)*<br>
 Gender-responsive budgeting (GRB) directs public spending toward closing gaps between women and men. This paper asks whether adopting GRB actually narrows the gap between girls' and boys' school enrolment, using data on nearly 200 countries over three decades.
