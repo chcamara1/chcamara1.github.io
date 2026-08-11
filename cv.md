@@ -18,7 +18,7 @@ permalink: /cv/
 ---
  
 ### Research & Professional Experience
-- **Short Term Consultant**, The World Bank Group (Wahington.DC, Jan 2026- Jun 2026)<br> 
+- **Short Term Consultant**, The World Bank Group (Wahington.DC, Jan 2026- Jun 2026)<br>
   Built the econometric framework for Ghana’s Subnational Public Finance Review, strengthened governance evidence for its Country Growth and Jobs Report, and co-authored CEMAC SOE transparency guidelines.
   Co-developed a cross-country budget dataset for Central and West Africa and supported lending, technical assistance, PIMA, and DRM work across five fragile states.
 
