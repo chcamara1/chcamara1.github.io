@@ -6,6 +6,9 @@ permalink: /publications/
 
 ### Working Papers
 
+-  [**Words That Bind: Budget-Plan Rhetoric and Fiscal Implementation under the Stability and Growth Pact**](/assets/fiscal_speeches.pdf)
+  Text analysis of euro-area Draft Budgetary Plans (2014 onward); shows general commitments are cheap talk, while specific revenue measures predict delivery (about +0.3 pp of GDP on the structural balance).<br>
+
 - [**Promises on Paper or Money Well Spent? Gender Budgeting Delivers**](/assets/gender-budget-credibility.pdf) *(Job Market Paper)* - Under review at Economics of governance<br>
   Difference-in-Differences analysis (1991–2020); shows gender budgeting improves credibility and reallocation towards inclusive sectors.
 
